@@ -1,0 +1,7 @@
+2023-01-19 22:18:57,621 - root - ERROR - error，一般用来打印一些错误信息-log_testing
+2023-01-19 22:18:57,631 - root - CRITICAL - critical，用来打印一些致命的错误信息，等级最高-log_testing
+2023-01-19 22:20:06,686 - root - DEBUG - debug，用来打印一些调试信息，级别最低-log_testing
+2023-01-19 22:20:06,686 - root - INFO - info，用来打印一些正常的操作信息-log_testing
+2023-01-19 22:20:06,686 - root - WARNING - waring，用来用来打印警告信息-log_testing
+2023-01-19 22:20:06,686 - root - ERROR - error，一般用来打印一些错误信息-log_testing
+2023-01-19 22:20:06,686 - root - CRITICAL - critical，用来打印一些致命的错误信息，等级最高-log_testing
